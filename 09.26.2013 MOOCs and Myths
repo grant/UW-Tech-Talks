@@ -1,0 +1,64 @@
+MOOCs and Myths
+
+David Patterson
+
+Myth: No SW Eng Jobs in US, 30% growth by 2020, Dept Labor
+Myth: All about programming
+Myth: Instructor is Expert
+Myth: SW Dev Method is easy
+Myth: SW Eng textbooks follow learning by doing
+Myth: SW Eng tools avail.
+Myth: SW Eng course => well prepared for career
+
+Revamping berkeley cource:
+Lack these SW skills
+1. Dealing with legacy code
+2. Working in teams non-tech ppl
+3. Automated testing
+
+Result:
+-5 ppl teams for non-prophits
+
+Agile manifesto, 2001
+Extreme Programming XP
+-simple, short iterations, test, code review all the time AFAP
+
+2 week agile/XP iteration from idea to deployment
+BDD with Cucumber
+iterative models are best
+
+Myth: MOOCs are a threat to US undergrad programs
+-80% out of US
+-Reality: Threatens continuing education programs
+Myth: MOOC with dilute cources
+-helps out
+MOOC: Weakens on-campus pedagogy
+-improved evaluations
+-AB testing
+-item response theory: which question is best
+-better data
+Myth: Profs now TAs for homogenized couses
+-allows faculty to create a la carte courses
+-autograde
+-prepare lectures
+
+
+Cons:
+answers online
+didn't check style
+computers too slow for VM
+didn't know linux
+
+Pros:
+autograde
+video lecture dense
+excited about latest tech
+world-class instruction
+got jobs
+
+Conclusions:
+SWE unnatural, limited time, many methods
+SaaS and Agile revolutionized SW industry + making SW Eng easier to teach
+MOOCs increase size and scope of course
+-need ebook: MOOCs alone
+21st centry MOOCs + ebooks revolutionize education
