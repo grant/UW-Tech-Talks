@@ -20,3 +20,5 @@ Distributed locks.
 
 OneFS - Single file system
 Files are stripped across all nodes and distributed
+
+Email Resumes: Alex.Brynza@Isilon.com
