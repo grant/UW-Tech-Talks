@@ -1,0 +1,22 @@
+Isilon
+
+Explosive growth of unstructured data
+Storage performance was increasingly becoming the bottleneck for various applications
+
+2.2 Exabytes stored now
+
+Structured data: database
+Unstructured data: pictures, files, blobs of data
+
+It's all about the software.
+
+File system built from the ground up on FreeBSD platform
+
+Linear scaling of capacity and performance
+
+File system and protocols
+
+Distributed locks.
+
+OneFS - Single file system
+Files are stripped across all nodes and distributed
