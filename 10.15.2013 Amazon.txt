@@ -1,0 +1,14 @@
+Swami Sivasubramanian: AWS GM and Architect
+
+Under the Covers of AWS: Applying Theory to Real World Distributed Systems
+
+Cloud computing is like renting power on demand
+Computing power as a utility
+
+Extremely massive scale
+
+Every day adds enough server capacity for $5B businesses
+
+Amazon S3 has over two trillion objects! Millions of RPS!
+
+2 pizza teams. 2 Pizzas should fill each Amazon team.
