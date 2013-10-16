@@ -1,4 +1,5 @@
 Swami Sivasubramanian: AWS GM and Architect
+swami@amazon.com
 
 Under the Covers of AWS: Applying Theory to Real World Distributed Systems
 
@@ -12,3 +13,19 @@ Every day adds enough server capacity for $5B businesses
 Amazon S3 has over two trillion objects! Millions of RPS!
 
 2 pizza teams. 2 Pizzas should fill each Amazon team.
+---
+partitioning is easy, repartitioning is hard
+so they bought bigger boxes
+---
+Amazon dynamo
+-higher availability
+-incremental scalability
+-simpler querying model -->> predictable performance
+-lacked strong consistancy
+---
+Problem of consensus: making sure that 1 server does an operation on a scaled system
+---
+Assume failure
+durability > performance
+scalability > flexability
+---
