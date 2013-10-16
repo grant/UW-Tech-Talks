@@ -1,0 +1,17 @@
+Monday Oct 14, 2013
+Kennett - Google
+-job interviews aren't tests
+-looking for a good worker, not a good interviewee
+-TALK with interviewers a lot
+-rephrase a question with alternate wording
+-always give the obvious/worst solution
+-keep track of things
+-use quotes and data (the interviewers write these down at Google)
+-learn statistics (it's very useful)
+
+Jordon - Amazon Fresh
+-talk a lot
+-redefine the problem
+-talk about runtime analysis
+-verify with examples
+-write tests (good companies write lots of tests for their code)
