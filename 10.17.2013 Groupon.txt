@@ -1,0 +1,31 @@
+Groupon
+
+12 years amazon
+Started Groupon 2012
+
+48 Countries
+$6B bookings
+500k merchants
+
+800+ engineers
+7 ppl per team
+
+Trying to revolutionize local commerce
+
+Audacious Goal: Make local deals better because of GroupOn
+
+Demand forecasting: Rank based off of demand and merchant location
+
+Impact report: Running deals translates to collecting customer demographics
+
+Gives a sample of recommendations, finds the effectiveness of the subset, and then sends a mass email for a daily deal the next day.
+
+Location is a big dimension that is hard to analyze. It means different things per location
+
+Hadoop 200 node 1PB cluster
+~2k emails per second
+Variable partitions of customers
+
+Questions:
+
+How is groupon social? Social enticement
