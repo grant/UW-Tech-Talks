@@ -1,0 +1,27 @@
+Context Driven Programming
+
+Shane Clifford (shane@intentsoft.com)
+-VP Application Dev
+
+Intential Projects
+-DARPA (autonomous sattelite control)
+Finantial
+Intelligence
+Productivity
+Healthcare
+
+Demo
+Intential Health Workbench
+-Questionaire
+-GUI for Drools Rules Management System
+
+Domain oriented development
+-Domain expert -> programmer
+
+Why is domain oriented development not commonplace?
+-tradition of execution over description
+
+Goal of software engineering should reduce incremental costs to:
+	Entities + Aspects
+Rather than today
+	Entities * Aspects
