@@ -1,0 +1,16 @@
+Dropbox
+A look Inside
+
+Ritu Vincent
+ritu@dropbox.com
+caro@dropbox.com
+
+Things were said in 2007
+-we can never lose user data
+-we need to be available, performant and reliable at all times.
+
+Things that should be easier:
+-share to the world
+-have access to your stuff everywhere
+
+Becoming international
