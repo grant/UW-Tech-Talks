@@ -1,0 +1,9 @@
+Yelp
+
+A/B Testing
+
+UCB tuned algorithm
+Bandit algorithms are good for optimiziation
+-One example of a higher clickthrough rate from A/B is from negative reviews being clicked through a lot. This increases ad sales but makes the experience poorer.
+
+yelp.com/dataset_challenge
