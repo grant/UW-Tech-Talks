@@ -23,3 +23,13 @@ Twiddling:
 1,400,000,000,000 documents (likes)
 70 TB index in RAM
 700 TB index on Flash
+
+---
+Ash Wahi
+Product Manager
+
+-ownership and accountability
+-rapid innovation and delivery
+-experiment, measure and grow
+-small teams
+-focus on impact
