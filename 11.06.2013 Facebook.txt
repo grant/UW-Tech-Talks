@@ -1,0 +1,25 @@
+Static Rank: The global rank of the document
+
+Query rewriting:
+and, or, wand, wor (weak and)
+
+Request fan-out:
+-
+
+Retrieval:
+-Getting docs
+
+Scoring:
+-Ranking models produces a score from features
+-Select top {n<m} documents by score
+-Return to Rack aggregator
+
+Merging:
+
+Twiddling:
+-Adds diversity, and fixes more ux posts
+
+---
+1,400,000,000,000 documents (likes)
+70 TB index in RAM
+700 TB index on Flash
