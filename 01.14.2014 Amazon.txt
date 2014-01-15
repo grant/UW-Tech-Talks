@@ -1,0 +1,16 @@
+Amazon
+
+Fulfilment by Amazon
+Anand Varadarajan
+
+Why Amazon has a marketplace/why amazon wins:
+* Large selection
+* Lowest price guarantee
+* Shipping
+
+Storing the product:
+* Optimal utilization of space
+
+* Packing optimization
+
+Lots of ML

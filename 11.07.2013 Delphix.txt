@@ -1,0 +1,15 @@
+Delphix
+
+Shubho Sinha
+shubho@delphix.com
+
+Per Larsson
+per.larsson@delphix.com
+
+virtual databases
+-compress db
+-rollback and refresh
+
+Flow allows people to see images of databases
+
+-Illumos is an open source solaris
